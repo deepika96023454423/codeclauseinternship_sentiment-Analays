@@ -1,1 +1,1 @@
-# codeclauseinternship_sentiment-Analays
+# codeclauseinternship_sentiment-Analaysis
