@@ -8,8 +8,12 @@ Navigate to the Project Directory, Open a terminal or command prompt and navigat
 The project directory is structured as follows: sentiment Analysis.py: Main script to execute the sentiment Analysis tool. README.md: Documentation providing an overview of the project, installation instructions, usage guide, etc.
 # Contributing
 Enhancing the sentiment analysis project involves implementing features like multi-language support, advanced analysis capabilities, and improving algorithm accuracy and efficiency. To contribute, follow the standard GitHub workflow: fork the repository, implement changes, and submit a pull request. Additionally, enhancing the user interface and experience is also prioritized.
+# License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 # Acknowledgements
 The sentiment analysis project benefits from the Sentiment analysis library, providing Python interfaces . We express our appreciation to the dynamic open-source community for their indispensable contributions to the advancement and upkeep of the libraries and frameworks employed within this project.
+
+
 
 
 
